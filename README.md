@@ -1,10 +1,10 @@
-# 🚀 Customer Retention Intelligence Platform
+# Customer Retention Intelligence Platform
 
 An end-to-end Machine Learning application that predicts whether a telecom customer is likely to churn. The project follows a modular ML pipeline architecture and provides real-time predictions through a FastAPI backend with a Streamlit frontend.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Customer churn is one of the biggest challenges for subscription-based businesses. This project helps identify customers who are likely to leave by analyzing customer demographics, service usage, and billing information.
 
@@ -19,7 +19,7 @@ The application includes:
 
 ---
 
-## 🏗️ Project Architecture
+## Project Architecture
 
 ```
                     User
@@ -43,7 +43,7 @@ The application includes:
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 | Category | Technology |
 |----------|------------|
@@ -58,7 +58,7 @@ The application includes:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Customer-Retention-Intelligence-Platform/
@@ -100,7 +100,7 @@ Customer-Retention-Intelligence-Platform/
 
 ---
 
-## 🔄 Machine Learning Workflow
+## Machine Learning Workflow
 
 ```
 Dataset
@@ -138,7 +138,7 @@ Streamlit Dashboard
 
 ---
 
-## 🤖 Models Used
+## Models Used
 
 - Logistic Regression
 - Decision Tree Classifier
@@ -149,7 +149,7 @@ The best-performing model is automatically selected and saved for prediction.
 
 ---
 
-## 🌐 API Endpoints
+## API Endpoints
 
 | Method | Endpoint | Description |
 |---------|----------|-------------|
@@ -159,7 +159,7 @@ The best-performing model is automatically selected and saved for prediction.
 
 ---
 
-## 💻 Streamlit Dashboard
+## Streamlit Dashboard
 
 The dashboard allows users to:
 
@@ -169,7 +169,7 @@ The dashboard allows users to:
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### Clone Repository
 
@@ -229,7 +229,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## ▶️ Start Streamlit
+## Start Streamlit
 
 ```bash
 streamlit run streamlit_app/app.py
@@ -237,7 +237,7 @@ streamlit run streamlit_app/app.py
 
 ---
 
-## 📊 Features
+## Features
 
 - End-to-End ML Pipeline
 - Modular Project Structure
@@ -251,7 +251,7 @@ streamlit run streamlit_app/app.py
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 
 - Hyperparameter Tuning
 - Model Explainability (SHAP)
@@ -262,15 +262,14 @@ streamlit run streamlit_app/app.py
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Nikhil Jankar**
 
 AI Engineer | Machine Learning | Python | Data Analytics
 
-LinkedIn: *(Add your LinkedIn URL)*
+LinkedIn: *https://www.linkedin.com/in/nikhiljankar/*
 
-GitHub: *(Add your GitHub URL)*
 
 ---
 
